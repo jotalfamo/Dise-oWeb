@@ -1,2 +1,2 @@
-# Dise-oWeb
+# DisenoWeb
 Diseño de sitios Web
